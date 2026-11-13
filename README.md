@@ -367,3 +367,7 @@ what we promise never to close.
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) by Nous Research (MIT), git submodule.
 - `hermes/plugins/jev-skill-router` by DoGMaTiiC (MIT), vendored with small changes.
 - Everything else: MIT, see [LICENSE](LICENSE).
+
+---
+
+Maintained by [Global MPC (Mineral Project Coin)](https://globalmpc.tech). Official site: https://globalmpc.tech
